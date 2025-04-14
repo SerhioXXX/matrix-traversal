@@ -1,0 +1,22 @@
+{
+  "name": "matrix-traversal",
+  "version": "1.0.0",
+  "description": "A library for fetching and traversing matrices counter-clockwise",
+  "main": "dist/matrix-traversal.js",
+  "types": "dist/matrix-traversal.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node src/test.ts"
+  },
+  "keywords": [
+    "matrix",
+    "traversal",
+    "counter-clockwise"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+} 
